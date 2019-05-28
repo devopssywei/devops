@@ -1,5 +1,6 @@
 # devops
 DevOps演示项目
+
 1.登录
 
 2.创建仓库
@@ -34,7 +35,7 @@ cat id_rsa.pub将内容粘贴到如下位置：
 	
 13.同步到github
 
-	push
+	git push
 	
 	
 
